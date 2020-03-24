@@ -1,0 +1,36 @@
+2020-03-11 00:29:18.409  INFO 3196 --- [rebuildIndexScheduler_Worker-7] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Rebuilding the entire Solr index...
+2020-03-11 00:29:18.476  INFO 3196 --- [rebuildIndexScheduler_Worker-7] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Executing Indexing operation
+2020-03-11 00:29:18.496  INFO 3196 --- [rebuildIndexScheduler_Worker-7] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Building page number 1 of 1
+2020-03-11 00:29:18.808  INFO 3196 --- [rebuildIndexScheduler_Worker-7] o.b.common.cache.StatisticsServiceImpl   : Cache hit percentage for SYSTEM_PROPERTY_MISSING_CACHE_HIT_RATE is: 40.00%
+2020-03-11 00:29:19.203  INFO 3196 --- [rebuildIndexScheduler_Worker-7] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Indexing operation completed in 0:00:00.712
+2020-03-11 00:29:19.223  INFO 3196 --- [rebuildIndexScheduler_Worker-7] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Finished building entire Solr index in 0:00:00.809
+2020-03-11 01:29:18.409  INFO 3196 --- [rebuildIndexScheduler_Worker-8] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Rebuilding the entire Solr index...
+2020-03-11 01:29:18.457  INFO 3196 --- [rebuildIndexScheduler_Worker-8] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Executing Indexing operation
+2020-03-11 01:29:18.464  INFO 3196 --- [rebuildIndexScheduler_Worker-8] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Building page number 1 of 1
+2020-03-11 01:29:18.691  INFO 3196 --- [rebuildIndexScheduler_Worker-8] o.b.common.cache.StatisticsServiceImpl   : Cache hit percentage for SYSTEM_PROPERTY_MISSING_CACHE_HIT_RATE is: 40.00%
+2020-03-11 01:29:19.174  INFO 3196 --- [rebuildIndexScheduler_Worker-8] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Indexing operation completed in 0:00:00.715
+2020-03-11 01:29:19.196  INFO 3196 --- [rebuildIndexScheduler_Worker-8] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Finished building entire Solr index in 0:00:00.786
+2020-03-11 02:29:18.409  INFO 3196 --- [rebuildIndexScheduler_Worker-9] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Rebuilding the entire Solr index...
+2020-03-11 02:29:18.461  INFO 3196 --- [rebuildIndexScheduler_Worker-9] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Executing Indexing operation
+2020-03-11 02:29:18.469  INFO 3196 --- [rebuildIndexScheduler_Worker-9] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Building page number 1 of 1
+2020-03-11 02:29:18.671  INFO 3196 --- [rebuildIndexScheduler_Worker-9] o.b.common.cache.StatisticsServiceImpl   : Cache hit percentage for SYSTEM_PROPERTY_MISSING_CACHE_HIT_RATE is: 40.00%
+2020-03-11 02:29:18.981  INFO 3196 --- [rebuildIndexScheduler_Worker-9] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Indexing operation completed in 0:00:00.514
+2020-03-11 02:29:18.993  INFO 3196 --- [rebuildIndexScheduler_Worker-9] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Finished building entire Solr index in 0:00:00.582
+2020-03-11 03:29:18.410  INFO 3196 --- [rebuildIndexScheduler_Worker-10] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Rebuilding the entire Solr index...
+2020-03-11 03:29:18.459  INFO 3196 --- [rebuildIndexScheduler_Worker-10] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Executing Indexing operation
+2020-03-11 03:29:18.464  INFO 3196 --- [rebuildIndexScheduler_Worker-10] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Building page number 1 of 1
+2020-03-11 03:29:18.711  INFO 3196 --- [rebuildIndexScheduler_Worker-10] o.b.common.cache.StatisticsServiceImpl   : Cache hit percentage for SYSTEM_PROPERTY_MISSING_CACHE_HIT_RATE is: 40.00%
+2020-03-11 03:29:19.193  INFO 3196 --- [rebuildIndexScheduler_Worker-10] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Indexing operation completed in 0:00:00.732
+2020-03-11 03:29:19.226  INFO 3196 --- [rebuildIndexScheduler_Worker-10] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Finished building entire Solr index in 0:00:00.815
+2020-03-11 04:29:18.410  INFO 3196 --- [rebuildIndexScheduler_Worker-1] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Rebuilding the entire Solr index...
+2020-03-11 04:29:18.457  INFO 3196 --- [rebuildIndexScheduler_Worker-1] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Executing Indexing operation
+2020-03-11 04:29:18.464  INFO 3196 --- [rebuildIndexScheduler_Worker-1] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Building page number 1 of 1
+2020-03-11 04:29:18.670  INFO 3196 --- [rebuildIndexScheduler_Worker-1] o.b.common.cache.StatisticsServiceImpl   : Cache hit percentage for SYSTEM_PROPERTY_MISSING_CACHE_HIT_RATE is: 41.00%
+2020-03-11 04:29:19.205  INFO 3196 --- [rebuildIndexScheduler_Worker-1] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Indexing operation completed in 0:00:00.747
+2020-03-11 04:29:19.226  INFO 3196 --- [rebuildIndexScheduler_Worker-1] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Finished building entire Solr index in 0:00:00.815
+2020-03-11 05:29:18.413  INFO 3196 --- [rebuildIndexScheduler_Worker-2] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Rebuilding the entire Solr index...
+2020-03-11 05:29:18.459  INFO 3196 --- [rebuildIndexScheduler_Worker-2] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Executing Indexing operation
+2020-03-11 05:29:18.469  INFO 3196 --- [rebuildIndexScheduler_Worker-2] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Building page number 1 of 1
+2020-03-11 05:29:18.708  INFO 3196 --- [rebuildIndexScheduler_Worker-2] o.b.common.cache.StatisticsServiceImpl   : Cache hit percentage for SYSTEM_PROPERTY_MISSING_CACHE_HIT_RATE is: 41.00%
+2020-03-11 05:29:19.154  INFO 3196 --- [rebuildIndexScheduler_Worker-2] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Indexing operation completed in 0:00:00.687
+2020-03-11 05:29:19.166  INFO 3196 --- [rebuildIndexScheduler_Worker-2] o.b.c.s.s.s.index.SolrIndexServiceImpl   : Finished building entire Solr index in 0:00:00.752

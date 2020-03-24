@@ -1,0 +1,4 @@
+web: java $JAVA_OPTS -jar admin/target/admin.jar -Dserver.port=8444 $JAR_OPTS
+web: java $JAVA_OPTS -jar site/target/ROOT.jar -Dserver.port=8443 $JAR_OPTS
+web: java $JAVA_OPTS -jar api/target/api.jar -Dserver.port=8445 $JAR_OPTS
+
